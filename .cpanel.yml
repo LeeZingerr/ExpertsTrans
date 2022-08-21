@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/experts1/public_html/
-    - /ExpertsTrans -R ExpertsTrans $DEPLOYPATH
+    - /bin/cp -R ExpertsTrans $DEPLOYPATH
