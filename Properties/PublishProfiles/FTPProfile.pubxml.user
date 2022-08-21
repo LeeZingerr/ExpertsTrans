@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFJnem2UjAkOQWz/2QC2VHwAAAAACAAAAAAAQZgAAAAEAACAAAABbIHnNXOmlB0ug+dUQAU64DBbKABrR/jJedVM0Q5Rf9gAAAAAOgAAAAAIAACAAAAA+8zNSzeQrfn5Xsd4BjDwv9aLTy5rDdn5cSNt15UKHHyAAAADxvRejSzYo0SnT0Ryo7lSh4zraL6ScF8XwHVhvP/XiakAAAACZXN2oQs79ruV7ufHEafBHmHFX+J4r6f1EvcEsYjPeINe4i2vfjbo+R8w4UU3X+juJCTpsnaI/OLRRcCp+QwgA</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.expertstrans.com/home/experts1/home/experts1</_PublishTargetUrl>
+    <History>False|2022-08-21T21:16:58.9807884Z;False|2022-08-21T22:50:28.3563545+03:00;False|2022-08-21T22:46:28.1982856+03:00;False|2022-08-21T22:45:12.2627651+03:00;False|2022-08-21T22:44:33.5443380+03:00;False|2022-08-21T22:44:09.1297322+03:00;False|2022-08-21T22:41:24.5450191+03:00;</History>
+  </PropertyGroup>
+</Project>
