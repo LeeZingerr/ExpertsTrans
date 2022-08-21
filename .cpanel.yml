@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/experts1/public_html/
+    - /home/experts1/repositories/ExpertsTrans  -R images $DEPLOYPATH
